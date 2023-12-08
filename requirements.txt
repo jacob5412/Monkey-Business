@@ -60,6 +60,7 @@ ipython==8.18.1
 ipython-genutils==0.2.0
 ipywidgets==8.1.1
 isoduration==20.11.0
+isort==5.12.0
 itsdangerous==2.1.2
 jedi==0.19.1
 Jinja2==3.1.2
@@ -80,6 +81,7 @@ jupyter_server==2.11.1
 jupyter_server_terminals==0.4.4
 jupyterlab==4.0.9
 jupyterlab-widgets==3.0.9
+jupyterlab_code_formatter==2.2.1
 jupyterlab_pygments==0.3.0
 jupyterlab_server==2.25.2
 kiwisolver==1.4.5

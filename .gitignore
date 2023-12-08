@@ -161,4 +161,4 @@ cython_debug/
 
 # Project files
 .DS_Store
-/SVM/SVM_Logs/*
+*/SVM_Logs/*

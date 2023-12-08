@@ -71,11 +71,9 @@ jsonschema-specifications==2023.11.2
 jupyter==1.0.0
 jupyter-console==6.6.3
 jupyter-contrib-core==0.4.2
-jupyter-contrib-nbextensions==0.7.0
 jupyter-events==0.9.0
 jupyter-highlight-selected-word==0.2.0
 jupyter-lsp==2.2.1
-jupyter-nbextensions-configurator==0.6.3
 jupyter_client==8.6.0
 jupyter_core==5.5.0
 jupyter_server==2.11.1
@@ -84,7 +82,6 @@ jupyterlab==4.0.9
 jupyterlab-widgets==3.0.9
 jupyterlab_pygments==0.3.0
 jupyterlab_server==2.25.2
-keras==2.15.0
 kiwisolver==1.4.5
 lazy_loader==0.3
 libclang==16.0.6
@@ -107,7 +104,7 @@ nbconvert==7.11.0
 nbformat==5.9.2
 nest-asyncio==1.5.8
 networkx==3.2.1
-notebook==6.4.12
+notebook==7.0.6
 notebook_shim==0.2.3
 numpy==1.26.2
 oauthlib==3.2.2
@@ -171,7 +168,6 @@ tabulate==0.9.0
 tenacity==8.2.3
 tensorboard==2.15.1
 tensorboard-data-server==0.7.2
-tensorflow==2.15.0
 tensorflow-estimator==2.15.0
 tensorflow-hub==0.15.0
 tensorflow-io-gcs-filesystem==0.34.0

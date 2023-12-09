@@ -7,8 +7,6 @@
 ## Real Dataset Banana Images
 The real dataset developed consists of 3,495 images of Cavendish bananas.
 
-![Image text](real.png)
-
 For paper reference (Bibtex)
 
 ```
